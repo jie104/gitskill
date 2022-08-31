@@ -6,4 +6,8 @@ My stupid boss still prefers SVN.....
 Creating a new branch is quick. 
 .......................
 sdddd
-dafagag
+<<<<<<< Updated upstream
+sdssdaf
+=======
+sdssdaf
+>>>>>>> Stashed changes
